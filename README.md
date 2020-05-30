@@ -1,2 +1,0 @@
-# cardGameSample
-unityで作ったカードゲームのサンプル
